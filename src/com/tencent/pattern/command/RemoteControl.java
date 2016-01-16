@@ -6,6 +6,7 @@ package com.tencent.pattern.command;
 public class RemoteControl {
 	private Command[] onCommands;
 	private Command[] offCommands;
+	private Command undoCommand;
 
 	public RemoteControl() {
 		onCommands = new Command[7];
@@ -16,6 +17,7 @@ public class RemoteControl {
 			onCommands[i] = noCommand;
 			offCommands[i] = noCommand;
 		}
+		undoCommand = noCommand;
 
 		onCommands[0] = new LightOnCommand(new Light("客厅灯"));
 		offCommands[0] = new LightOffCommand(new Light("客厅灯"));
@@ -28,9 +30,15 @@ public class RemoteControl {
 
 	public void onPressed(int slot) {
 		onCommands[slot].execute();
+		undoCommand = onCommands[slot];
 	}
 
 	public void offPressed(int slot) {
 		offCommands[slot].execute();
+		undoCommand = offCommands[slot];
+	}
+
+	public void undoPressed() {
+		undoCommand.undo();
 	}
 }

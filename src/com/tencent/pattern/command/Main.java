@@ -7,6 +7,7 @@ public class Main {
 	public static void main(String args[]) {
 		RemoteControl remoteControl = new RemoteControl();
 		remoteControl.onPressed(0);
+		remoteControl.undoPressed();
 		remoteControl.offPressed(0);
 	}
 }
