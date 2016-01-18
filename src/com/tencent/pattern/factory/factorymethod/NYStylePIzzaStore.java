@@ -7,7 +7,7 @@ import com.tencent.pattern.factory.simplefactory.Pizza;
  */
 public class NYStylePizzaStore extends PizzaStore {
 	@Override
-	Pizza createPizza(String type) {
+	public Pizza createPizza(String type) {
 		if (type.equals("cheese")) {
 			return new NYStyleCheesePizza();
 		} else if (type.equals("clam")) {

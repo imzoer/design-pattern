@@ -12,5 +12,11 @@ public class Main {
 		System.err.println("pizza ok:" + pizza);
 		pizza = store.orderPizza("clam");
 		System.err.println("pizza ok:" + pizza);
+
+		store = new NYStylePizzaStore();
+		pizza = store.orderPizza("cheese");
+		System.err.println("pizza ok:" + pizza);
+		pizza = store.orderPizza("clam");
+		System.err.println("pizza ok:" + pizza);
 	}
 }

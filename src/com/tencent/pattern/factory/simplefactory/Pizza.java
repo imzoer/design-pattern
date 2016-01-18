@@ -7,7 +7,7 @@ public class Pizza {
 	public void prepare() {
 	}
 
-	public void bask() {
+	public void bake() {
 	}
 
 	public void cut() {
