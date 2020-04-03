@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2020-04-03T16:44:14.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="GtsTpHjhm5G0QqZhF45P" version="12.9.7" type="github"><diagram id="R_FBD3S4-JUN1P2f1tha" name="Page-1">7VrbcpswEP0aPbaDEBfxCIakD+1MZzzTNo+qkW1ajFwsx3a/vhKIO3aSxphcnMnY0kpa0J7d1eqMAZqs9rcpWS+/sJDGQNfCPUA+0HXsQPEpBYdcYNpGLlikUZiLYCWYRn+pEmpKuo1CumlM5IzFPFo3hTOWJHTGGzKSpmzXnDZncfOpa7KgHcF0RuKu9HsU8qXalm5X8k80WiyLJ0PLyUdWpJisdrJZkpDtaiIUADRJGeN5a7Wf0FjarrBLvu7myGj5YilN+GMWkFt4wGEQbb/5eMOnc4Ma3gek3o0fig3TUOxfdVnKl2zBEhIHldRL2TYJqdSqiV415zNjayGEQviLcn5QYJItZ0K05KtYjdJ9xH/I5R9N1burjfh7pTnrHIpOwtNDbZHs3tXHqmVZr1i34Sn7XUInjO7NoziesJil2X7RXCNII+XM2ojn25omdXQtrYy/Ydt0Rk+Yt/BYki4oPzFPz+dJ29ceoHC8pWxFxZ7EhJTGhEf3Td8kysUX5bzKC0RDOcITnELpvSfxVj0J6FbMpe2YsEDdXaw/W1YMfNhkgLtiArTW+2pQtBbZd2AC1wCuLRs4ANg8l14LOBOA/UKd2HWuUY0fE7dcv+nYu2XE6XRNMoB3Irk1nfjpbiSfXV+R/Z1yr3uacro/6RBqVNdUklFZFjqqv6tyFizmLGv5ytAG8iF8MrEkLDlrJinad42s0p9Jxs0IZ490tfQri7IQUg5hwKZDIK0FdJ6S1KoW1uVr/D/8+tEUslmT5HmhjjFwcBbz4t/uC/78GW8+yhGyRo5y5zJRXpz9ZacW52Od/Q+e6XCcSNetFth5Shos0o3BIl0UCwFwdRXynoh0G7gecG/efqQbEPeDOlqkW12YZRE3AZ4DAkeWctjvACB2y5tWJnG0SER7JmxDheE8aZNIXLdcNbCKwjC/ZVDhIeRnpkpaey0dONuV6QHTl7pEosi9KFN9BrMjqxVLetfsRo/V9aGsbvda3RPHnZbFhw1w35H42nEoy9cCB7uLg3VJHIoc2wDCAp6wvGhg4CIZAdL+Ah0tQ8SX2Uu+kEVWMtXkn1IiwsXxgRM8TsMrhxLp5sM1y0VjCsKOUa+cxzk5D/2xBZJx7grpeX5x/M5ypT1eZpnUvhAZxthlEjxNqA7Je5zOJS8jJ1z6MmS2gR6a9tBGg39U2mtoXJGmN3C1NKup4sgl92EHMS/rIHC46/KVGKtQxWMTY9C8TCLoZ8ZeNi821lnQpsAHJsZgD2VyZcaez4zZLVSNsUO9n6R5c9SY0Sy1exjJy17jca/Z3x03ZvZwlJflxpweIN4Ds9U+X8YGotxCHYh3xTWidhlodhDB50FEdKtfbuUVQ/XzNxT8Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-03T16:54:39.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="RaS6sZ5ZH7RDRPgze7H_" version="12.9.7" type="github">
+  <diagram id="R_FBD3S4-JUN1P2f1tha" name="Page-1">
+    <mxGraphModel dx="891" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aG1y8dEiuVD8stSf4e4B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;dashed=1;" parent="1" source="aG1y8dEiuVD8stSf4e4B-1" target="aG1y8dEiuVD8stSf4e4B-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG1y8dEiuVD8stSf4e4B-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;大厅&lt;font style=&quot;font-size: 16px&quot;&gt;服&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="200" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aG1y8dEiuVD8stSf4e4B-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;" parent="1" source="aG1y8dEiuVD8stSf4e4B-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aG1y8dEiuVD8stSf4e4B-2" value="&lt;span style=&quot;font-size: 16px&quot;&gt;战斗服&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="200" y="336" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aG1y8dEiuVD8stSf4e4B-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;" parent="1" target="aG1y8dEiuVD8stSf4e4B-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aG1y8dEiuVD8stSf4e4B-4" value="&lt;span style=&quot;font-size: 16px&quot;&gt;客户端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="418" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aG1y8dEiuVD8stSf4e4B-6" value="匹配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aG1y8dEiuVD8stSf4e4B-7" value="开始战斗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aG1y8dEiuVD8stSf4e4B-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;涂装数据&lt;/b&gt;&lt;/font&gt; &amp;amp; 非涂装数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="336" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
